@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiten4tune
-- 👀 I’m interested in Angural & .Net Core
-- 🌱 I’m currently learning Angural & .Net Core
+- 👀 I’m interested in Angular & .Net Core
+- 🌱 I’m currently learning Angular & .Net Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
